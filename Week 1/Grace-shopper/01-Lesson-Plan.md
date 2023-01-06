@@ -44,6 +44,7 @@ None
 - [Teams Template](04-Teams.md)
 - [Tiers](02-Tiers.md)
 - [Boilermaker App Template Repository](https://github.com/FullstackAcademy/fs-app-template)
+  - This is the WRONG ONE - find the new GSP repo
 
 #### Notes
 
