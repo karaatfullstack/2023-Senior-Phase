@@ -1,0 +1,12 @@
+@here Good afternoon, employees! Hope your first day of work has been treating you well, and you've been getting to know the team. Myself and my fellow co-founders, @###### and @#######, are so happy to have you onboard at our company! We've just spoken with the client, and they've provided us with some great detail on the initial features they'd like for their new e-commerce site. We've documented these user stories in the company repo (See "Detailed Tiers" under the "Grace Shopper" section, or #####LINK HERE #####). Our client is still working out the details for additional features, but you should have a good overview of the expected future features from our product briefing this morning (the slides from that presentation can also be found in the company repo).
+And a reminder of a couple on-boarding tasks that your managers have requested to be completed by EOD:
+POST & PIN the following resources to your team Slack channel:
+Team Contract link
+Github Org link
+(if you have any additional resources for your team, add those as well)
+INVITE all team members, all instructors, and your fellow to your Github org. Instructors' github usernames:
+#####
+#####
+#####
+Start drafting some Tier 1 tasks on your project board
+Please remember we have a company meeting at 5pm today, so be on time!

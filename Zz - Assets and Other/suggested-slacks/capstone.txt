@@ -1,0 +1,49 @@
+@here... some "milestones" of capstone progress (which you can also see in your calendar). The due dates/times indicate approximately when we will check in with your team on each of these milestones, so please try to have them completed by the listed time, so we can offer feedback and suggestions :slightly_smiling_face: As I said earlier, there is a lot of planning and research that goes into Capstone, so don't feel discouraged if you don't write a lot of code in the first couple days.
+-------------------
+TODAY (Tuesday, 4-6pm): MVP Statements; Team Contract
+We will check in today to review your Team Contract & MVP statements (each team should also post+pin these to the team Slack channel!) These should look similar to the MVP you got for your "default idea", but should include the following information:
+Project Title / Team Name
+Overview: this is like your project "catch phrase", 1 sentence description of your project
+MVP: 3-5 sentences describing the main functionality that encompasses your MVP, and/or bullets of the main MVP functionality
+Stretch Goals: list the features beyond your MVP that you would like to implement once the MVP is complete
+Tech Stack (due Thurs): what technologies/libraries/etc are you going to use to implement your MVP?
+Wireframes (due Thurs) (optional): UI/UX flow of your app if necessary/desired
+Schema Design (due Thurs) (optional): if necessary/desired
+Wednesday (4-6pm): Project tasks breakdown
+You should set up a project board and created tasks for completing your MVP.
+Thursday (4-6pm): Wireframes, Schema, Tech Stack / Libraries
+See the info above about MVP Statements for info on these. These should be added to complete your MVP.
+Friday (4-6pm): Proof of concept
+We will be using each team's Code Review time (Monday) to review your progress on implementation of your proof of concept (what is the 'hard part'/crux of your MVP? In other words... what do you absolutely need to get working to get your MVP completed?)
+-------------------
+
+
+
+Hey all! As we near a midway point of capstone, this is often a great time for teams to hold a small retro with themselves and reflect on how things have been going. I'd encourage you all to find some time (maybe 15-30mins) this afternoon or tomorrow morning to review your team contract and norms, your project board, your git flow, and anything else you've been using to help your team work.
+What are some things that have been working really well so far? Document them if they aren't already!
+What things have not been going well? How can you change them?
+Maybe you had a workflow you liked from your Grace Shopper team that could help on your current team?
+Do you need to adjust your standup times/frequency?
+Any adjustments to how/when you ask for help or resolve disagreements?
+Adjustments to after-hours work?
+Revisiting the team contract, roles, project board?
+etc...
+Fellows/instructors will be around this afternoon if your team would like guidance on strategies for any of the above :slightly_smiling_face:
+
+
+
+Those of you with a sharp :eye:  may have noticed that we have "beta testing" on the calendar for tomorrow. You might be asking yourselves: is this where we take your app and throw it into a pond full of betta fish? And the answer is: no - but we are throwing you into the deep end in some sense :fish:
+We are going to hand over your apps to a group of people who have not been involved with the making of them - your classmates! We will coordinate this between 4:30 and 5:30 tomorrow running in two 30-minute shifts. Decide amongst your team how you will split into two groups: the testers and the demo-ers. The demo-ers will demo your app from 4:30 - 5 while the testers will test other apps during that same time. At 5pm we rotate so all testers become demo-ers and all demo-ers become testers.
+Notes for the Testers:
+- Expect to take at most 5min testing each team's app.
+- Try to approach the app as blindly as possible - try not to ask for help using the app as the interface should be intuitive enough for you to use without help.
+- Give feedback (nice, but honest) on how the user experience is of their app. Try not to focus on what technologies they're using and instead think about if the app makes sense from a usability standpoint.
+
+Notes for the Demo-ers:
+- While your title is "demo-er" you should not spend much time talking about your app. It's time you let your app speak for itself.
+- Your job is mostly to observe and take notes. What about your app is working? What do people seem to like? Are there any pain points where users are struggling to use or understand your app?
+
+But you might be asking now - how do we test someone's app remotely?! If the app is deployed then have the team send you their link and you can share your screen as you test. If the app is not deployed, have the team share their screen and give you access through Zoom to control the screen. Details on that are linked below...
+
+How to request or give remote access when sharing a screen (speaking of beta testing - IMO this is not an intuitive UI so note that you have to click on the "Windows | Mac" box to view the instructions on this page :face_with_rolling_eyes:  https://support.zoom.us/hc/en-us/articles/201362673-Requesting-or-giving-remote-control#heading=h.65ma9ec1h8lm
+Okay - that is a lot so please let me know if you have any questions. Otherwise I look forward to breaking... uh I mean testing... your apps tomorrow :wink:
