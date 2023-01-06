@@ -1,7 +1,7 @@
-## Portfolio Enrichment Piece
+## Portfolio Enrichment Piece (Instructor)
 
 This should be discussed sometime week 1, since students need to come up with a topic by week 3
-- This same page exists in week 3 as well
+- This same page exists in week 3 as well - that's the version to share with students
 
 ### Learning Objectives
 
@@ -20,20 +20,21 @@ Students will produce an individual report of one of the following formats:
 * Applied use-case of ADT/Algo
 * Overview of Industry Best Practices (DevOps, Agile, etc.)
 
+#### Specifications
+- Written PEPs should be ~1000 words in length and published to Medium
+- Recorded PEPs should be ~5 minutes in length and published to Youtube (unlisted)
+
 ### Review Sessions
 
 * Students will work in pre-assigned review groups of 2-3 students to share and draft their PEPs.
   * These groups can be assigned either at the start of the cohort, or at the start of week 6 for final review.
 * Peer reviewers are also responsible for leaving upvotes/positive comments on their groupmates' published PEPs.
 
-### Submission Due Dates:
+### Submission Due Dates
 
 * Friday, Week 3: Topics Due
 * Friday, Week 6: Final Submission Due
 
-### Specifications:
-- Written PEPs should be ~1000 words in length and published to Medium
-- Recorded PEPs should be ~5 minutes in length and published to Youtube (unlisted)
 
 ### Additional Resources
 
