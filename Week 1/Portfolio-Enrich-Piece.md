@@ -2,7 +2,7 @@
 
 This should be discussed sometime week 1, since students need to come up with a topic by week 3
 - This same page exists in week 3 as well
-- I created a version in Canvas to share with students!
+- I created a [version in Canvas](https://fullstack.instructure.com/courses/448/pages/portfolio-enrichment-piece) to share with students!
 
 ### Learning Objectives
 
