@@ -7,11 +7,6 @@
 - Students will build a project of their own design and volition over a brief weekend hackathon
 - Students will teach themselves a new technology, language, or framework
 
-
-### Pre-reading
-
-  N/A
-
 ### Lessons
 
 #### Intro to Stackathon
