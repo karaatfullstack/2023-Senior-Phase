@@ -33,7 +33,7 @@ Introduce what the project is, the story behind it, and what interested in you t
 
 ### User Story
 
-If you have something to present, walk everyone through a user story of your app. Or if you don't have a user story, you can walk through the working parts of your app. Or if you really don't have much to show, a slide deck of a few slides of what you were trying to would suffice.
+If you have something to present, walk everyone through a user story of your app. Or if you don't have a user story, you can walk through the working parts of your app. Or if you really don't have much to show, a slide deck of a few slides of what you were trying to do would suffice.
 
 ### The Technologies
 
@@ -48,7 +48,7 @@ Give us a rundown on what technologies you used and what are the technologies th
 
 - What advice would you give future developers pursuing this project?
 - What would you have done differently?
-- Would you use the same stack or use something different?
+- Would you use the same stack or use something different next time?
 
 ### Future Features
 
@@ -58,5 +58,8 @@ Give us a rundown on what technologies you used and what are the technologies th
 ## Notes
 - Students will submit their recorded videos via Canvas
 - Stackathon ideas do not need to be "approved" before moving forward.
+- There will be minimal assistance from the instructional team with this project. Each project is highly-specific to your topic, and will likely be difficult for an outsider to troubleshoot.
+  - For this reason, we recommend starting small, and taking incremental steps toward additional features.
 - Rather than pick an entirely new topics, students are encouraged to build upon their async-week for Stackathon. 
   - This is NOT required, and ultimately you may choose any topic that interests you within the realm of computer science.
+  - There is no 'failing' this project, as long as you can talk for a few minutes about what you learned.
