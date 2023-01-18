@@ -54,7 +54,7 @@ Give us a rundown on what technologies you used and what are the technologies th
 ### Future Features
 
 - Where does your vision take you?
-- If you are working on it after graduation, what part of it will you immediately start working on again?
+- If you were to work on it after graduation, what part of it would you start on?
 
 ## Notes
 - Students will submit their recorded videos via Canvas
@@ -63,4 +63,4 @@ Give us a rundown on what technologies you used and what are the technologies th
   - For this reason, we recommend starting small, and taking incremental steps toward additional features.
 - Rather than pick an entirely new topics, students are encouraged to build upon their async-week for Stackathon. 
   - This is NOT required, and ultimately you may choose any topic that interests you within the realm of computer science/ web development.
-  - There is no 'failing' this project, as long as you can talk for a few minutes about what you learned.
+  - There is no 'failing' this project, as long as you can present what you've learned.
