@@ -25,6 +25,7 @@
 - Do short test recordings to verify your settings are adequate
 
 * For further inspiration, see this list of possible topics: [AWP Technologies List](https://docs.google.com/spreadsheets/d/1aApC_9G1tG1q3LfCfliUPHrK7NF2d3K9_Wu4mPT9BpY/edit#gid=1476839564)
+  * This is far from an exhaustive list - pick anything you want! These are just possibilities.  
 
 
 ## Presentation Content
@@ -61,5 +62,5 @@ Give us a rundown on what technologies you used and what are the technologies th
 - There will be minimal assistance from the instructional team with this project. Each project is highly-specific to your topic, and will likely be difficult for an outsider to troubleshoot.
   - For this reason, we recommend starting small, and taking incremental steps toward additional features.
 - Rather than pick an entirely new topics, students are encouraged to build upon their async-week for Stackathon. 
-  - This is NOT required, and ultimately you may choose any topic that interests you within the realm of computer science.
+  - This is NOT required, and ultimately you may choose any topic that interests you within the realm of computer science/ web development.
   - There is no 'failing' this project, as long as you can talk for a few minutes about what you learned.
