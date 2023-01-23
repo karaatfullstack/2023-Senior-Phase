@@ -29,7 +29,7 @@
 
 #### Additional Resources
 
-* [Suggested Capstone Ideas](https://github.com/FullstackAcademy/default-capstone-ideas)
+* [Suggested Capstone Ideas](https://github.com/karaatfullstack/capstone-project-ideas)
 * [Teammaker Repo](https://github.com/FullstackAcademy/teammaker)
 
 #### Notes
