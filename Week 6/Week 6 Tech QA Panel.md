@@ -1,4 +1,5 @@
 # Technical Q&A Panel Questions
+This is handled by career services and might be graduation day or later
 
 ## Expectations
 This panel lasts 1 hour and occurs during the 6th week of senior phase, and generally has 2 - 3 panelists and a host. The first *20 minutes* are geared questions (see below) about the panelists' experience, going from a higher level understanding of their job hunt to more specific questions about each person's experience.
